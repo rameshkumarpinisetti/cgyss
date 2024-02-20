@@ -1,2 +1,2 @@
-# cgyss
+# admin
 Chhattisgarh Yoga Scoring System
